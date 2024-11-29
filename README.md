@@ -1,6 +1,6 @@
-<img width="485" alt="{CCF66F7F-28C3-4797-8404-71B3D5B5E26D}" src="https://github.com/user-attachments/assets/cb23671f-6219-498b-9c7c-bb02f0af730d">
-
 # // RUT GENERATOR by NavilaxGoogle 🇨🇱
+
+<img width="500" alt="{CCF66F7F-28C3-4797-8404-71B3D5B5E26D}" src="https://github.com/user-attachments/assets/cb23671f-6219-498b-9c7c-bb02f0af730d">
 
 #Qué es?
 
