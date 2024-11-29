@@ -3,7 +3,7 @@ from PIL import Image, ImageTk
 import random
 
 # Lista de RUTs a excluir (ejemplo)
-exclusiones = ["20589875-1", "21296672-K"]
+exclusiones = []
 
 def calcular_digito_verificador(numero):
   """Calcula el dígito verificador de un RUT chileno utilizando el algoritmo del módulo 11.
